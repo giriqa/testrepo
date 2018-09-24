@@ -15,4 +15,4 @@ We need to write test cases for the Custom calendar.
 11. Check browser is having four eye process to authorize the record. Check the record in NAU and removal.
 12. Check account is removed from custom calendar table on last day of closure 
 13. Check for MCP/GLE accounts custom calendar statement is allowing to modify it
-14. 
+14. Check all browser validations
