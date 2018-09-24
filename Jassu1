@@ -1,0 +1,18 @@
+This is the content added from GITHUB.
+
+We need to write test cases for the Custom calendar.
+
+1. Account with multiple frequncy with different frequency(BSNSS,M0101,M0131)
+2. Account with Multiple frequency with same frequency
+3. configure all days for all the months
+4. configure one day from each month
+5. configure two days from each month
+6. configure weekend holiday for statement generation
+7. configure holidays of the month in the custom calendar
+8. configure continous holidays in the custom calendar 
+9. configure 
+10. Check browser is allowing multiple frequency configuration for an account
+11. Check browser is having four eye process to authorize the record. Check the record in NAU and removal.
+12. Check account is removed from custom calendar table on last day of closure 
+13. Check for MCP/GLE accounts custom calendar statement is allowing to modify it
+14. 
