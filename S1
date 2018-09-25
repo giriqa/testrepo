@@ -1,9 +1,0 @@
-Case 1:
-color = red
-  print "its red color"
-
-color = green
- print "this is green"
- 
-Case 2:
- else "it is of mixed colors"
